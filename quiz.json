@@ -1,0 +1,618 @@
+[
+    {
+        "partial": "قط",
+        "complete": "قطة"
+    },
+    {
+        "partial": "كل",
+        "complete": "كلب"
+    },
+    {
+        "partial": "تف",
+        "complete": "تفاحة"
+    },
+    {
+        "partial": "سيار",
+        "complete": "سيارة"
+    },
+    {
+        "partial": "بي",
+        "complete": "بيت"
+    },
+    {
+        "partial": "مكت",
+        "complete": "مكتب"
+    },
+    {
+        "partial": "مدر",
+        "complete": "مدرسة"
+    },
+    {
+        "partial": "كت",
+        "complete": "كتاب"
+    },
+    {
+        "partial": "بل",
+        "complete": "بلد"
+    },
+    {
+        "partial": "نه",
+        "complete": "نهر"
+    },
+    {
+        "partial": "بح",
+        "complete": "بحر"
+    },
+    {
+        "partial": "شم",
+        "complete": "شمس"
+    },
+    {
+        "partial": "قم",
+        "complete": "قمر"
+    },
+    {
+        "partial": "نج",
+        "complete": "نجمة"
+    },
+    {
+        "partial": "زه",
+        "complete": "زهرة"
+    },
+    {
+        "partial": "ور",
+        "complete": "وردة"
+    },
+    {
+        "partial": "شجر",
+        "complete": "شجرة"
+    },
+    {
+        "partial": "كه",
+        "complete": "كهف"
+    },
+    {
+        "partial": "حيو",
+        "complete": "حيوان"
+    },
+    {
+        "partial": "طاو",
+        "complete": "طاولة"
+    },
+    {
+        "partial": "كأ",
+        "complete": "كأس"
+    },
+    {
+        "partial": "زجا",
+        "complete": "زجاجة"
+    },
+    {
+        "partial": "ناف",
+        "complete": "نافذة"
+    },
+    {
+        "partial": "با",
+        "complete": "باب"
+    },
+    {
+        "partial": "كر",
+        "complete": "كرسي"
+    },
+    {
+        "partial": "غر",
+        "complete": "غرفة"
+    },
+    {
+        "partial": "سري",
+        "complete": "سرير"
+    },
+    {
+        "partial": "ملع",
+        "complete": "ملعقة"
+    },
+    {
+        "partial": "سكي",
+        "complete": "سكين"
+    },
+    {
+        "partial": "شوك",
+        "complete": "شوكة"
+    },
+    {
+        "partial": "صح",
+        "complete": "صحن"
+    },
+    {
+        "partial": "قطا",
+        "complete": "قطار"
+    },
+    {
+        "partial": "طائ",
+        "complete": "طائرة"
+    },
+    {
+        "partial": "سف",
+        "complete": "سفينة"
+    },
+    {
+        "partial": "در",
+        "complete": "دراجة"
+    },
+    {
+        "partial": "حدي",
+        "complete": "حديقة"
+    },
+    {
+        "partial": "ملع",
+        "complete": "ملعب"
+    },
+    {
+        "partial": "سين",
+        "complete": "سينما"
+    },
+    {
+        "partial": "مس",
+        "complete": "مسرح"
+    },
+    {
+        "partial": "مستش",
+        "complete": "مستشفى"
+    },
+    {
+        "partial": "صيد",
+        "complete": "صيدلية"
+    },
+    {
+        "partial": "مت",
+        "complete": "متحف"
+    },
+    {
+        "partial": "مط",
+        "complete": "مطعم"
+    },
+    {
+        "partial": "فن",
+        "complete": "فندق"
+    },
+    {
+        "partial": "مدين",
+        "complete": "مدينة"
+    },
+    {
+        "partial": "قر",
+        "complete": "قرية"
+    },
+    {
+        "partial": "عاصم",
+        "complete": "عاصمة"
+    },
+    {
+        "partial": "دو",
+        "complete": "دولة"
+    },
+    {
+        "partial": "قار",
+        "complete": "قارة"
+    },
+    {
+        "partial": "محي",
+        "complete": "محيط"
+    },
+    {
+        "partial": "كر",
+        "complete": "كرة"
+    },
+    {
+        "partial": "مس",
+        "complete": "مسبح"
+    },
+    {
+        "partial": "شا",
+        "complete": "شاطئ"
+    },
+    {
+        "partial": "جب",
+        "complete": "جبل"
+    },
+    {
+        "partial": "صحر",
+        "complete": "صحراء"
+    },
+    {
+        "partial": "غاب",
+        "complete": "غابة"
+    },
+    {
+        "partial": "سو",
+        "complete": "سوق"
+    },
+    {
+        "partial": "محل",
+        "complete": "محل"
+    },
+    {
+        "partial": "جام",
+        "complete": "جامعة"
+    },
+    {
+        "partial": "مك",
+        "complete": "مكتب"
+    },
+    {
+        "partial": "بن",
+        "complete": "بنك"
+    },
+    {
+        "partial": "كن",
+        "complete": "كنيسة"
+    },
+    {
+        "partial": "مس",
+        "complete": "مسجد"
+    },
+    {
+        "partial": "حدا",
+        "complete": "حداد"
+    },
+    {
+        "partial": "نج",
+        "complete": "نجار"
+    },
+    {
+        "partial": "طبي",
+        "complete": "طبيب"
+    },
+    {
+        "partial": "مهن",
+        "complete": "مهندس"
+    },
+    {
+        "partial": "معل",
+        "complete": "معلم"
+    },
+    {
+        "partial": "طي",
+        "complete": "طيار"
+    },
+    {
+        "partial": "ممر",
+        "complete": "ممرضة"
+    },
+    {
+        "partial": "صح",
+        "complete": "صحفي"
+    },
+    {
+        "partial": "كات",
+        "complete": "كاتب"
+    },
+    {
+        "partial": "مد",
+        "complete": "مدير"
+    },
+    {
+        "partial": "طا",
+        "complete": "طاه"
+    },
+    {
+        "partial": "رئي",
+        "complete": "رئيس"
+    },
+    {
+        "partial": "وز",
+        "complete": "وزير"
+    },
+    {
+        "partial": "عا",
+        "complete": "عامل"
+    },
+    {
+        "partial": "مزا",
+        "complete": "مزارع"
+    },
+    {
+        "partial": "حر",
+        "complete": "حرفي"
+    },
+    {
+        "partial": "خي",
+        "complete": "خياط"
+    },
+    {
+        "partial": "سب",
+        "complete": "سباك"
+    },
+    {
+        "partial": "كهر",
+        "complete": "كهربائي"
+    },
+    {
+        "partial": "بق",
+        "complete": "بقال"
+    },
+    {
+        "partial": "جز",
+        "complete": "جزار"
+    },
+    {
+        "partial": "حلو",
+        "complete": "حلواني"
+    },
+    {
+        "partial": "خب",
+        "complete": "خباز"
+    },
+    {
+        "partial": "سمك",
+        "complete": "سمكري"
+    },
+    {
+        "partial": "محا",
+        "complete": "محاسب"
+    },
+    {
+        "partial": "محا",
+        "complete": "محامي"
+    },
+    {
+        "partial": "متر",
+        "complete": "مترجم"
+    },
+    {
+        "partial": "مس",
+        "complete": "مستشار"
+    },
+    {
+        "partial": "إعلا",
+        "complete": "إعلامي"
+    },
+    {
+        "partial": "مص",
+        "complete": "مصمم"
+    },
+    {
+        "partial": "مخ",
+        "complete": "مخرج"
+    },
+    {
+        "partial": "فن",
+        "complete": "فنان"
+    },
+    {
+        "partial": "موسي",
+        "complete": "موسيقي"
+    },
+    {
+        "partial": "ريا",
+        "complete": "رياضي"
+    },
+    {
+        "partial": "مم",
+        "complete": "ممثل"
+    },
+    {
+        "partial": "مط",
+        "complete": "مطرب"
+    },
+    {
+        "partial": "راق",
+        "complete": "راقص"
+    },
+    {
+        "partial": "مؤ",
+        "complete": "مؤلف"
+    },
+    {
+        "partial": "نم",
+        "complete": "نمر"
+    },
+    {
+        "partial": "زر",
+        "complete": "زرافة"
+    },
+    {
+        "partial": "صا",
+        "complete": "صاروخ"
+    },
+    {
+        "partial": "كري",
+        "complete": "كريمة"
+    },
+    {
+        "partial": "جر",
+        "complete": "جرس"
+    },
+    {
+        "partial": "خي",
+        "complete": "خياطة"
+    },
+    {
+        "partial": "مح",
+        "complete": "محطة"
+    },
+    {
+        "partial": "قب",
+        "complete": "قبوة"
+    },
+    {
+        "partial": "سا",
+        "complete": "ساعة"
+    },
+    {
+        "partial": "شر",
+        "complete": "شرفة"
+    },
+    {
+        "partial": "ثو",
+        "complete": "ثوب"
+    },
+    {
+        "partial": "منظ",
+        "complete": "منظور"
+    },
+    {
+        "partial": "عي",
+        "complete": "عين"
+    },
+    {
+        "partial": "مح",
+        "complete": "محمد"
+    },
+    {
+        "partial": "أح",
+        "complete": "أحمد"
+    },
+    {
+        "partial": "عل",
+        "complete": "علي"
+    },
+    {
+        "partial": "يو",
+        "complete": "يوسف"
+    },
+    {
+        "partial": "عم",
+        "complete": "عمر"
+    },
+    {
+        "partial": "سع",
+        "complete": "سعيد"
+    },
+    {
+        "partial": "جم",
+        "complete": "جميل"
+    },
+    {
+        "partial": "راش",
+        "complete": "را"
+    },
+    {
+        "partial": "سلم",
+        "complete": "سلمان"
+    },
+    {
+        "partial": "عب",
+        "complete": "عباس"
+    },
+    {
+        "partial": "هن",
+        "complete": "هناء"
+    },
+    {
+        "partial": "فاطم",
+        "complete": "فاطمة"
+    },
+    {
+        "partial": "لي",
+        "complete": "ليلى"
+    },
+    {
+        "partial": "رغ",
+        "complete": "رغد"
+    },
+    {
+        "partial": "سع",
+        "complete": "سعاد"
+    },
+    {
+        "partial": "نه",
+        "complete": "نهى"
+    },
+    {
+        "partial": "جم",
+        "complete": "جميلة"
+    },
+    {
+        "partial": "زه",
+        "complete": "زهراء"
+    },
+    {
+        "partial": "ور",
+        "complete": "وردة"
+    },
+    {
+        "partial": "سم",
+        "complete": "سمية"
+    },
+    {
+        "partial": "حم",
+        "complete": "حمار"
+    },
+    {
+        "partial": "ثعب",
+        "complete": "ثعبان"
+    },
+    {
+        "partial": "سم",
+        "complete": "سمكة"
+    },
+    {
+        "partial": "عق",
+        "complete": "عقرب"
+    },
+    {
+        "partial": "ضب",
+        "complete": "ضبع"
+    },
+    {
+        "partial": "نح",
+        "complete": "نحلة"
+    },
+    {
+        "partial": "فرا",
+        "complete": "فراشة"
+    },
+    {
+        "partial": "عنك",
+        "complete": "عنكبوت"
+    },
+    {
+        "partial": "ذب",
+        "complete": "ذباب"
+    },
+    {
+        "partial": "بع",
+        "complete": "بعوضة"
+    },
+    {
+        "partial": "حل",
+        "complete": "حلزون"
+    },
+    {
+        "partial": "قن",
+        "complete": "قنفذ"
+    },
+    {
+        "partial": "قر",
+        "complete": "قرد"
+    },
+    {
+        "partial": "بطر",
+        "complete": "بطريق"
+    },
+    {
+        "partial": "كن",
+        "complete": "كنغر"
+    },
+    {
+        "partial": "ظب",
+        "complete": "ظبي"
+    },
+    {
+        "partial": "بج",
+        "complete": "بجعة"
+    },
+    {
+        "partial": "سلح",
+        "complete": "سلحفاة"
+    },
+    {
+        "partial": "طاو",
+        "complete": "طاووس"
+    },
+    {
+        "partial": "خنز",
+        "complete": "خنزير"
+    }
+]

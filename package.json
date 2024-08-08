@@ -1,0 +1,15 @@
+{
+    "name": "discord-game-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot game using discord.js v14",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "canvas": "^2.11.2",
+        "discord.js": "^14.15.3"
+    },
+    "author": "Wick Studio",
+    "license": "MIT"
+}
